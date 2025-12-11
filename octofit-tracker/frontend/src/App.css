@@ -1,0 +1,23 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 0;
+  background-color: #e9ecef;
+  border-radius: 0.5rem;
+}
+
+.table-container {
+  margin-top: 2rem;
+}
+
+.error {
+  color: #dc3545;
+  padding: 1rem;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 0.25rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 2rem;
+}
